@@ -49,6 +49,11 @@
 
 /*review*/
 
+.reviews__container {
+  padding: 100px 50px;
+  background-color: #ffffff;
+}
+
 .reviews {
   height: 400px;
   width: 1140px;
